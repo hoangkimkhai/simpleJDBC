@@ -66,8 +66,8 @@ public class AddStudentPage extends JFrame {
             grade = new TextField();
             TextField nameArea = new TextField("Name");
             TextField ageArea = new TextField("Age");
-            TextField gradeArea = new TextField("Class Name");
-            TextField classNameArea = new TextField("Grade");
+            TextField gradeArea = new TextField("Grade");
+            TextField classNameArea = new TextField("Class name");
             this.add(nameArea);
             this.add(name);
             this.add(ageArea);
